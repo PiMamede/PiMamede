@@ -2,4 +2,3 @@
 - 👀 I’m interested in Software Engeneering, Machine Learning, Data science
 - 🌱 I’m currently learning Python Django
 - 💞️ I’m looking to collaborate on any project, I'm looking to learn and envolve my habilities
-- 📫 You can reach me via email: dev.mmd2@gmail.com
